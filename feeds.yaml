@@ -1,237 +1,206 @@
-version: 1
+# Generated from your X following list on 2026-07-29.
+# Accounts are grouped automatically from their profile descriptions.
 
-settings:
-  lookback_hours: 48
-  max_posts_per_source: 10
-  max_top_stories: 15
-  language:
-    - en
-  deduplicate: true
+feeds:
+  ai_and_ai_product:
+    title: "ai and ai product"
+    accounts:
+      - "@adamhmwn"
+      - "@AmandaAskell"
+      - "@amylalai"
+      - "@AndrewYNg"
+      - "@ANoffsinger"
+      - "@Bitturing"
+      - "@covacut"
+      - "@DanHollick"
+      - "@DannPetty"
+      - "@danywander"
+      - "@davidshim"
+      - "@DessignCo"
+      - "@dingyi"
+      - "@drfeifei"
+      - "@figmaweave"
+      - "@floguo"
+      - "@Flomerboy"
+      - "@GoogleAIStudio"
+      - "@GoogleLabs"
+      - "@ianneo_ai"
+      - "@impeccable_ai"
+      - "@jenny_wen"
+      - "@JerryDizs"
+      - "@jiayuan_jy"
+      - "@jshguo"
+      - "@jsngr"
+      - "@karpathy"
+      - "@karrisaarinen"
+      - "@kedia_naman"
+      - "@Kimi_Moonshot"
+      - "@konmari_tweet"
+      - "@Libbiefrost"
+      - "@Lovable"
+      - "@LumaLabsAI"
+      - "@mattpocockuk"
+      - "@meepodev"
+      - "@meetLCA"
+      - "@MengTo"
+      - "@MSchwaibold"
+      - "@pengzheng_"
+      - "@permu_ux"
+      - "@ranli_thinker"
+      - "@raunofreiberg"
+      - "@ryolu_"
+      - "@sama"
+      - "@sarveshsea"
+      - "@senyil"
+      - "@shuding"
+      - "@skirano"
+      - "@TairanHe99"
+      - "@thedankoe"
+      - "@Trinkle23897"
+      - "@trq212"
+      - "@tylr"
+      - "@usabilitycounts"
+      - "@vamsibatchuk"
+      - "@variantui"
+      - "@xiaoerzhan"
+      - "@yakuzeg"
+      - "@yanliudreamer"
+      - "@zan2434"
+      - "@zendadddy"
 
-categories:
+  brand_visual_design:
+    title: "brand visual design"
+    accounts:
+      - "@_echozhou"
+      - "@_fojcik"
+      - "@2050beyond"
+      - "@by__huy"
+      - "@devxnuj"
+      - "@driceroland"
+      - "@egeberkina"
+      - "@maggiefost"
+      - "@socoloffalex"
 
-  ai:
-    priority: high
+  builders_product_business:
+    title: "builders product business"
+    accounts:
+      - "@akothari"
+      - "@JohnPhamous"
+      - "@jonaasw1"
+      - "@rileybrown"
+      - "@withtenacity"
 
-  ai-engineering:
-    priority: high
+  creative_code_motion:
+    title: "creative code motion"
+    accounts:
+      - "@emilkowalski"
+      - "@lukebvrker"
+      - "@motiondotdev"
+      - "@realvjy"
+      - "@seanterelle"
+      - "@SenZh4"
+      - "@shrshhez"
+      - "@threejs"
+      - "@WoraWork"
 
-  product-design:
-    priority: high
+  people_and_general:
+    title: "people and general"
+    accounts:
+      - "@_studioarchive"
+      - "@A24"
+      - "@active_theory"
+      - "@arisawyers"
+      - "@asallen"
+      - "@brian_lovin"
+      - "@carmguti"
+      - "@ChatGPT"
+      - "@chiquwch"
+      - "@ciguleva"
+      - "@cjmlgrto"
+      - "@CNN"
+      - "@DavidPlakon"
+      - "@dvvdle"
+      - "@hal__lee"
+      - "@ivanhzhao"
+      - "@jamesjacoby_"
+      - "@josephjojoe"
+      - "@joshm"
+      - "@NotionHQ"
+      - "@pinchenchong"
+      - "@SambitBiswas"
+      - "@samdape"
+      - "@Shopify"
+      - "@Shpigford"
+      - "@xiaohongshu"
+      - "@xiaolinbythesea"
 
-  design-engineering:
-    priority: high
+  product_design:
+    title: "product design"
+    accounts:
+      - "@_EricHu"
+      - "@_kejk"
+      - "@0nasis"
+      - "@0xnichy"
+      - "@AdityaSur11"
+      - "@AristideBenoist"
+      - "@astrodotbuild"
+      - "@avstorm"
+      - "@awwwards"
+      - "@baothiento"
+      - "@benblumenrose"
+      - "@BrettFromDJ"
+      - "@colinlienard"
+      - "@cthrin"
+      - "@CynthiaSavard"
+      - "@darianevezhyna"
+      - "@darylginn"
+      - "@designerfund"
+      - "@Dianadotlu"
+      - "@gliuiuiu"
+      - "@GoogleDesign"
+      - "@hannah_hearth"
+      - "@jakubkrehel"
+      - "@jamesm"
+      - "@JaredTredly"
+      - "@Jaytel"
+      - "@JJYing"
+      - "@joulee"
+      - "@JSummersMuir"
+      - "@karissawongg"
+      - "@katarinabatina"
+      - "@kianbazza"
+      - "@lexrus"
+      - "@loficosmos1"
+      - "@lusionltd"
+      - "@mathurahravi"
+      - "@michelletliu"
+      - "@mizko"
+      - "@nlevin"
+      - "@onething_design"
+      - "@ormanclark"
+      - "@ozzyxs1a"
+      - "@pablostanley"
+      - "@Pearlsequeiraa"
+      - "@philipcdavis"
+      - "@racheljychen"
+      - "@raphaelschaad"
+      - "@rauchg"
+      - "@raul_dronca"
+      - "@rive_app"
+      - "@samgrosss"
+      - "@sequoia"
+      - "@sistilli"
+      - "@spoonyvu"
+      - "@stephenhaney"
+      - "@SubhanHQ"
+      - "@tfalexandrino"
+      - "@tkkong"
+      - "@vibamohan_"
+      - "@wenhaoqi"
+      - "@yashwanth941v"
 
-  ux:
-    priority: medium
-
-  interaction-design:
-    priority: medium
-
-  motion:
-    priority: medium
-
-  creative-code:
-    priority: medium
-
-  startup:
-    priority: medium
-
-  career:
-    priority: medium
-
-  design-tools:
-    priority: high
-
-sources:
-
-# ==========================
-# AI Companies
-# ==========================
-
-  - handle: OpenAI
-    category: ai
-    priority: high
-
-  - handle: AnthropicAI
-    category: ai
-    priority: high
-
-  - handle: GoogleAI
-    category: ai
-    priority: high
-
-  - handle: cursor_ai
-    category: ai-engineering
-    priority: high
-
-  - handle: v0
-    category: ai-engineering
-    priority: high
-
-  - handle: vercel
-    category: ai-engineering
-    priority: high
-
-  - handle: perplexity_ai
-    category: ai
-    priority: high
-
-  - handle: Replit
-    category: ai-engineering
-    priority: medium
-
-  - handle: boltnew
-    category: ai-engineering
-    priority: medium
-
-  - handle: lovable_dev
-    category: ai-engineering
-    priority: medium
-
-  - handle: ClaudeAI
-    category: ai
-    priority: high
-
-# ==========================
-# Design Tools
-# ==========================
-
-  - handle: figma
-    category: design-tools
-    priority: high
-
-  - handle: framer
-    category: design-tools
-    priority: high
-
-  - handle: spline
-    category: design-tools
-    priority: medium
-
-  - handle: rive_app
-    category: design-tools
-    priority: medium
-
-  - handle: Linear
-    category: design-tools
-    priority: medium
-
-# ==========================
-# Product Design
-# ==========================
-
-  - handle: noahlevenson
-    category: product-design
-    priority: high
-
-  - handle: mizko
-    category: product-design
-    priority: high
-
-  - handle: femkesvs
-    category: product-design
-    priority: high
-
-  - handle: jessejamesgarrett
-    category: ux
-    priority: medium
-
-# ==========================
-# Design Engineering
-# ==========================
-
-  - handle: buildUI
-    category: design-engineering
-    priority: high
-
-  - handle: pmndrs
-    category: design-engineering
-    priority: high
-
-  - handle: threejs
-    category: design-engineering
-    priority: high
-
-  - handle: reactjs
-    category: design-engineering
-    priority: medium
-
-  - handle: shadcn
-    category: design-engineering
-    priority: medium
-
-# ==========================
-# Creative Coding
-# ==========================
-
-  - handle: codrops
-    category: creative-code
-    priority: high
-
-  - handle: brikxyz
-    category: creative-code
-    priority: medium
-
-  - handle: sequencexyz
-    category: creative-code
-    priority: medium
-
-# ==========================
-# Founders / Builders
-# ==========================
-
-  - handle: levelsio
-    category: startup
-    priority: high
-
-  - handle: paulgraham
-    category: startup
-    priority: high
-
-  - handle: karpathy
-    category: ai
-    priority: high
-
-  - handle: seanellis
-    category: startup
-    priority: medium
-
-# ==========================
-# Career
-# ==========================
-
-  - handle: lennysan
-    category: career
-    priority: high
-
-  - handle: producthunt
-    category: startup
-    priority: medium
-
-filters:
-
-  exclude_keywords:
-    - giveaway
-    - giveaway alert
-    - follow to win
-    - sponsored
-    - hiring
-    - we're hiring
-    - conference tickets
-    - webinar
-    - join us live
-
-  minimum_engagement: 20
-
-ranking:
-
-  engagement_weight: 0.20
-  relevance_weight: 0.40
-  originality_weight: 0.20
-  educational_weight: 0.20
-
-output:
-
-  format: markdown
-  folder: briefs
+  web_development:
+    title: "web development"
+    accounts:
+      - "@DavidHckh"
+      - "@sveltejs"
